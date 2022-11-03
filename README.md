@@ -7,5 +7,5 @@ I'm Guilherme D. Garcia. I'm a phonologist and I like data analysis 🙂
 - 🌎 My website is https://gdgarcia.ca
 - 🔭 I work on phonology and second language acquisition
 - 🌱 I’m currently learning more about Bayesian models with Stan
-- 🗺 Born in 🇧🇷, citizen of 🇨🇦 and 🇮🇹
+- 🗺 Citizen of 🇧🇷, 🇨🇦 and 🇮🇹
 
