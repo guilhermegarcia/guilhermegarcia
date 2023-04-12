@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-I'm Guilherme D. Garcia. I'm a phonologist and I like data analysis 🙂
+I'm Guilherme D. Garcia. I'm a phonologist and I like data analysis.
 
 - 👨🏻‍💻 I'm a professor at Université Laval, in Québec City
 - 🎓 I completed my PhD in Linguistics at McGill University
